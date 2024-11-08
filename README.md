@@ -57,3 +57,19 @@ Durante el desarrollo del proyecto se presentaron varios desafíos:
 ---
 
 Este repositorio contiene los archivos de configuración y las instrucciones necesarias para la implementación y despliegue del sistema en Kubernetes.
+---
+![image](https://github.com/user-attachments/assets/a0aeab88-2dfa-4929-b739-ef2d73df245a)
+---
+Servicios
+![image](https://github.com/user-attachments/assets/d7ed791c-4665-4f3c-ab81-9b94ad641fa2)
+
+---
+![image](https://github.com/user-attachments/assets/caf475d3-07b4-4ed3-9712-a2f4a75f68e7)
+
+
+---
+---
+---
+---
+
+
